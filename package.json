@@ -1,0 +1,14 @@
+{
+  "name": "mywelcome",
+  "version": "0.0.1",
+  "description": "demo",
+  "main": "myWelcome.js",
+  "scripts": {
+    "test": "解决安卓启动黑屏"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "demo",
+  "license": "MIT"
+}
